@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5BEoYvhEB1xy7JiFXOOVPLgeJR/3kZjUQMpHRAbOvNA=",
+  "Source": "SampleAPIAzure",
+  "BasePath": "_content/SampleAPIAzure",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
