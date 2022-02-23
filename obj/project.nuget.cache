@@ -1,12 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "bOlla9NPwWaR/4EOw67Qv3/y28Sfk6Jty4V+Wz0VP3sT/pqnxsvUtUtYc4zagD6/jtISltYTKEBBaFKEA4axDQ==",
+  "dgSpecHash": "Apy9OrZbw5e06kyHd/q8+xojTSvFmtYaaP0TGPplBdStTLZLVxa97/yOcgq0m08/2TOxBDktZX0mzfRX1G2ayw==",
   "success": true,
   "projectFilePath": "E:\\Corp\\Sample\\SampleAPIAzure\\SampleAPIAzure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gayat\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\gayat\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\gayat\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
     "C:\\Users\\gayat\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\gayat\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\gayat\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
